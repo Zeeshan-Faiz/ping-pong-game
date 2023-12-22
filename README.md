@@ -1,5 +1,7 @@
 # Ping Pong Game Documentation
 
+![image info](ping-pong.png)
+
 ## Overview
 
 This simple Ping Pong game, developed in Java, provides a classic two-player experience where players control paddles to hit a bouncing ball back and forth across the screen. The objective is to score points by making the ball pass the opponent's paddle.
